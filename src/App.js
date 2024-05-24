@@ -12,7 +12,10 @@ function App() {
   return (
     <div className="App">
       <Navbar />
-      {location.pathname === "/" && <Video src={HomeVideo} />}
+      {(location.pathname === "/" ||
+        location.pathname.toLowerCase() === "/orthoapp") && (
+        <Video src={HomeVideo} />
+      )}
 
       <Routes>
         <Route path="/products" element={<Products />} />
