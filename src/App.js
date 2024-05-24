@@ -13,7 +13,8 @@ function App() {
     <div className="App">
       <Navbar />
       {(location.pathname === "/" ||
-        location.pathname.toLowerCase() === "/orthoapp") && (
+        location.pathname.toLowerCase() === "/orthoapp" ||
+        location.pathname.toLowerCase() === "/orthoapp/") && (
         <Video src={HomeVideo} />
       )}
 
