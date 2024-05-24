@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/orthoApp/static/css/main.df921fc5.css",
+    "main.js": "/orthoApp/static/js/main.78f6e9d2.js",
+    "static/js/453.55f4fdc0.chunk.js": "/orthoApp/static/js/453.55f4fdc0.chunk.js",
+    "static/media/HomeVideo.mp4": "/orthoApp/static/media/HomeVideo.49090866380b6ad54086.mp4",
+    "static/media/HM3.jpg": "/orthoApp/static/media/HM3.b0e81ec042faf995d4e0.jpg",
+    "static/media/HM2.jpg": "/orthoApp/static/media/HM2.230026f490a2a5b0f44b.jpg",
+    "static/media/HM1.jpg": "/orthoApp/static/media/HM1.1355b4e99e1453fccac7.jpg",
+    "static/media/logo.png": "/orthoApp/static/media/logo.4ae9e9de8161adb1abf1.png",
+    "index.html": "/orthoApp/index.html",
+    "main.df921fc5.css.map": "/orthoApp/static/css/main.df921fc5.css.map",
+    "main.78f6e9d2.js.map": "/orthoApp/static/js/main.78f6e9d2.js.map",
+    "453.55f4fdc0.chunk.js.map": "/orthoApp/static/js/453.55f4fdc0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df921fc5.css",
+    "static/js/main.78f6e9d2.js"
+  ]
+}
